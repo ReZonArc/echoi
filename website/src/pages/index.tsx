@@ -2,7 +2,7 @@
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 
-const noiVersion = '0.4.0';
+const echoiVersion = '0.4.0';
 
 export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
@@ -13,30 +13,30 @@ export default function Home(): JSX.Element {
       wrapperClassName="bg-amber-200/30 dark:bg-slate-700/50"
     >
       <main className="p-10 text-center max-w-[960px] m-auto">
-        <h1 className="font-bold">Noi</h1>
+        <h1 className="font-bold">echoi</h1>
         <p className="text-md font-bold mb-10">{siteConfig.tagline}</p>
         <div className="flex gap-10 justify-center items-end flex-row max-w-[560px] m-auto">
           <div className="flex flex-col items-center gap-1 basis-1/3">
             <img src="/os/apple-logo.svg" className="w-[40px] sm:w-[60px]" />
             <div className="font-bold">macOS</div>
             <div className="flex gap-2 justify-center">
-              <a href={`https://github.com/lencx/Noi/releases/download/v${noiVersion}/Noi_macos_${noiVersion}.dmg`}>x64</a>
-              <a href={`https://github.com/lencx/Noi/releases/download/v${noiVersion}/Noi_macos_${noiVersion}-arm64.dmg`}>arm64</a>
+              <a href={`https://github.com/ReZonArc/echoi/releases/download/v${echoiVersion}/echoi_macos_${echoiVersion}.dmg`}>x64</a>
+              <a href={`https://github.com/ReZonArc/echoi/releases/download/v${echoiVersion}/echoi_macos_${echoiVersion}-arm64.dmg`}>arm64</a>
             </div>
           </div>
           <div className="flex flex-col items-center gap-1 basis-1/3">
             <img src="/os/windows-logo.png" className="w-[40px] sm:w-[60px]" />
             <div className="font-bold">Windows</div>
             <div className="flex gap-2 justify-center">
-              <a href={`https://github.com/lencx/Noi/releases/download/v${noiVersion}/Noi-win32-x64-${noiVersion}-setup.exe`}>x64</a>
+              <a href={`https://github.com/ReZonArc/echoi/releases/download/v${echoiVersion}/echoi-win32-x64-${echoiVersion}-setup.exe`}>x64</a>
             </div>
           </div>
           <div className="flex flex-col items-center gap-1 basis-1/3">
             <img src="/os/linux-logo.png" className="w-[40px] sm:w-[60px]" />
             <div className="font-bold">Linux</div>
             <div className="flex gap-2 justify-center">
-              <a href={`https://github.com/lencx/Noi/releases/download/v${noiVersion}/Noi_linux_${noiVersion}.AppImage`}>AppImage</a>
-              <a href={`https://github.com/lencx/Noi/releases/download/v${noiVersion}/noi_linux_amd64_${noiVersion}.deb`}>amd64.deb</a>
+              <a href={`https://github.com/ReZonArc/echoi/releases/download/v${echoiVersion}/echoi_linux_${echoiVersion}.AppImage`}>AppImage</a>
+              <a href={`https://github.com/ReZonArc/echoi/releases/download/v${echoiVersion}/echoi_linux_amd64_${echoiVersion}.deb`}>amd64.deb</a>
             </div>
           </div>
         </div>
