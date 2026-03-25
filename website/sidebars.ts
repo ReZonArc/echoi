@@ -27,7 +27,7 @@ const sidebars: SidebarsConfig = {
     {
       type: 'link',
       label: 'Main Repository',
-      href: 'https://github.com/lencx/Noi',
+      href: 'https://github.com/ReZonArc/echoi',
     },
   ],
 };

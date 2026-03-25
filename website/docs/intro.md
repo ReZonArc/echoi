@@ -3,13 +3,13 @@ sidebar_position: 1
 slug: /
 ---
 
-# Welcome to Noi Documentation
+# Welcome to echoi Documentation
 
-Noi is an AI-enhanced, customizable browser designed to streamline your digital experience with AI services.
+echoi is an AI-enhanced, customizable browser designed to streamline your digital experience with AI services.
 
 ## 🚀 Quick Start
 
-- **Users**: Download Noi from [GitHub Releases](https://github.com/lencx/Noi/releases)
+- **Users**: Download echoi from [GitHub Releases](https://github.com/ReZonArc/echoi/releases)
 - **Developers**: Check out the [Technical Architecture](./ARCHITECTURE.md)
 - **Extension Developers**: See the [Extension Development Guide](./EXTENSION_DEVELOPMENT.md)
 
@@ -17,7 +17,7 @@ Noi is an AI-enhanced, customizable browser designed to streamline your digital 
 
 ### Technical Documentation
 - **[Architecture Overview](./ARCHITECTURE.md)** - Complete system architecture with diagrams
-- **[Extension Development](./EXTENSION_DEVELOPMENT.md)** - Build extensions for Noi
+- **[Extension Development](./EXTENSION_DEVELOPMENT.md)** - Build extensions for echoi
 - **[Configuration System](./CONFIGURATION.md)** - Manage settings and configurations
 - **[Development Guide](./DEVELOPMENT.md)** - Set up development environment
 
@@ -34,7 +34,7 @@ Noi is an AI-enhanced, customizable browser designed to streamline your digital 
 ## 🎯 Getting Started
 
 ### For End Users
-1. [Download Noi](https://github.com/lencx/Noi/releases) for your platform
+1. [Download echoi](https://github.com/ReZonArc/echoi/releases) for your platform
 2. Install and launch the application
 3. Configure your preferred AI services
 4. Start exploring AI-enhanced browsing
@@ -73,7 +73,7 @@ Noi is an AI-enhanced, customizable browser designed to streamline your digital 
 
 ```mermaid
 graph TB
-    subgraph "Noi Application"
+    subgraph "echoi Application"
         UI[User Interface]
         Browser[Browser Engine]
         Extensions[Extension System]
@@ -101,16 +101,15 @@ graph TB
 
 We welcome contributions! Please see our:
 - [Development Guide](./DEVELOPMENT.md) for setup instructions
-- [GitHub Repository](https://github.com/lencx/Noi) for issues and discussions
+- [GitHub Repository](https://github.com/ReZonArc/echoi) for issues and discussions
 - [Extension Development](./EXTENSION_DEVELOPMENT.md) for creating extensions
 
 ## 📢 Community
 
-- **Discord**: [Join our community](https://discord.gg/kq2HXcpJSQ)
-- **GitHub**: [Star the project](https://github.com/lencx/Noi)
-- **Issues**: [Report bugs](https://github.com/lencx/Noi/issues)
-- **Discussions**: [Feature requests](https://github.com/lencx/Noi/discussions)
+- **GitHub**: [Star the project](https://github.com/ReZonArc/echoi)
+- **Issues**: [Report bugs](https://github.com/ReZonArc/echoi/issues)
+- **Discussions**: [Feature requests](https://github.com/ReZonArc/echoi/discussions)
 
 ## 📄 License
 
-Noi is open-source software. Check the [repository](https://github.com/lencx/Noi) for license details.
+echoi is open-source software. Check the [repository](https://github.com/ReZonArc/echoi) for license details.

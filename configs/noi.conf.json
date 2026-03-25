@@ -29,5 +29,5 @@
   "global_shortcut": "CmdOrCtrl+Shift+N",
   "global_shortcut_tray": "CmdOrCtrl+Shift+M",
   "global_shortcut_prompt": "CmdOrCtrl+Alt+P",
-  "mode_sync": "https://raw.githubusercontent.com/lencx/Noi/main/configs/noi.mode.json"
+  "mode_sync": "https://raw.githubusercontent.com/ReZonArc/echoi/main/configs/noi.mode.json"
 }
