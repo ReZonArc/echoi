@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Noi Blog</title>
-        <link>https://noi.nofwl.com/zh-CN/blog</link>
-        <description>Noi Blog</description>
-        <lastBuildDate>Tue, 19 Nov 2024 13:27:33 GMT</lastBuildDate>
+        <title>echoi Blog</title>
+        <link>https://noib.app/zh-CN/blog</link>
+        <description>echoi Blog</description>
+        <lastBuildDate>Wed, 25 Mar 2026 12:38:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh-CN</language>
         <item>
-            <title><![CDATA[你好, Noi]]></title>
-            <link>https://noi.nofwl.com/zh-CN/blog/noi</link>
-            <guid>https://noi.nofwl.com/zh-CN/blog/noi</guid>
-            <pubDate>Tue, 19 Nov 2024 13:27:33 GMT</pubDate>
+            <title><![CDATA[你好, echoi]]></title>
+            <link>https://noib.app/zh-CN/blog/echoi</link>
+            <guid>https://noib.app/zh-CN/blog/echoi</guid>
+            <pubDate>Wed, 25 Mar 2026 12:38:40 GMT</pubDate>
             <description><![CDATA[🚀 用 AI 点亮您的世界 - 探索、扩展、赋能。]]></description>
-            <content:encoded><![CDATA[<p>🚀 用 AI 点亮您的世界 - 探索、扩展、赋能。</p>
-<ul>
-<li><a href="https://mp.weixin.qq.com/s/dAN7LOw7mH609HdAyEvXfg" target="_blank" rel="noopener noreferrer">Noi：跨平台定制化浏览器，最得力 AI 助手</a></li>
-<li><a href="https://mp.weixin.qq.com/s/M6gO6MdK5obCvs2LIBZA3w" target="_blank" rel="noopener noreferrer">Noi：插件介绍</a></li>
-</ul>]]></content:encoded>
+            <content:encoded><![CDATA[<p>🚀 用 AI 点亮您的世界 - 探索、扩展、赋能。</p>]]></content:encoded>
         </item>
     </channel>
 </rss>

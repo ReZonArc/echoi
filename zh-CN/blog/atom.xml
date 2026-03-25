@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://noi.nofwl.com/zh-CN/blog</id>
-    <title>Noi Blog</title>
-    <updated>2024-11-19T13:27:33.000Z</updated>
+    <id>https://noib.app/zh-CN/blog</id>
+    <title>echoi Blog</title>
+    <updated>2026-03-25T12:38:40.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://noi.nofwl.com/zh-CN/blog"/>
-    <subtitle>Noi Blog</subtitle>
-    <icon>https://noi.nofwl.com/zh-CN/img/noi.png</icon>
+    <link rel="alternate" href="https://noib.app/zh-CN/blog"/>
+    <subtitle>echoi Blog</subtitle>
+    <icon>https://noib.app/zh-CN/img/noi.png</icon>
     <entry>
-        <title type="html"><![CDATA[你好, Noi]]></title>
-        <id>https://noi.nofwl.com/zh-CN/blog/noi</id>
-        <link href="https://noi.nofwl.com/zh-CN/blog/noi"/>
-        <updated>2024-11-19T13:27:33.000Z</updated>
+        <title type="html"><![CDATA[你好, echoi]]></title>
+        <id>https://noib.app/zh-CN/blog/echoi</id>
+        <link href="https://noib.app/zh-CN/blog/echoi"/>
+        <updated>2026-03-25T12:38:40.000Z</updated>
         <summary type="html"><![CDATA[🚀 用 AI 点亮您的世界 - 探索、扩展、赋能。]]></summary>
-        <content type="html"><![CDATA[<p>🚀 用 AI 点亮您的世界 - 探索、扩展、赋能。</p>
-<ul>
-<li><a href="https://mp.weixin.qq.com/s/dAN7LOw7mH609HdAyEvXfg" target="_blank" rel="noopener noreferrer">Noi：跨平台定制化浏览器，最得力 AI 助手</a></li>
-<li><a href="https://mp.weixin.qq.com/s/M6gO6MdK5obCvs2LIBZA3w" target="_blank" rel="noopener noreferrer">Noi：插件介绍</a></li>
-</ul>]]></content>
+        <content type="html"><![CDATA[<p>🚀 用 AI 点亮您的世界 - 探索、扩展、赋能。</p>]]></content>
         <author>
-            <name>lencx</name>
-            <uri>https://github.com/lencx</uri>
+            <name>ReZonArc</name>
+            <uri>https://github.com/ReZonArc</uri>
         </author>
     </entry>
 </feed>
